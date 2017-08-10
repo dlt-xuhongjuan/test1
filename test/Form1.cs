@@ -20,6 +20,7 @@ namespace test
         {
             InitializeComponent();
             string s = "";
+            string s1 = "";
        
         }
     }
