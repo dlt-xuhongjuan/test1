@@ -19,8 +19,8 @@ namespace test
         public Form1()
         {
             InitializeComponent();
-        
-
+            string s = "";
+       
         }
     }
 }
